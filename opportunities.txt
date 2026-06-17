@@ -1,3 +1,4 @@
 "BBD Graduate Programme"
 Filter by location 
+This is an email alert feature
 Adding a feature Api to the platform
